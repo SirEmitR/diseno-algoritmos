@@ -47,7 +47,7 @@ def fibonacci(n):
 # Ejercicio exponenciación rápida
 
 def exponenciacion_rapida(a, n):
-    print(a,n)
+    # print(a,n)
     if n == 0:
         return 1
     if n == 1:
